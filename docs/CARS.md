@@ -289,6 +289,7 @@
 |Tesla|Model X (with HW4) 2024|All|[Dashcam mode](#dashcam)|
 |Tesla|Model Y (with HW3) 2020-23|All|[Upstream](#upstream)|
 |Tesla|Model Y (with HW4) 2024-25|All|[Upstream](#upstream)|
+|Tesla|Model Y Juniper (with HW4) 2025+|All|[Upstream](#upstream)|
 |Toyota|Alphard 2019-20|All|[Upstream](#upstream)|
 |Toyota|Alphard Hybrid 2021|All|[Upstream](#upstream)|
 |Toyota|Avalon 2016|Toyota Safety Sense P|[Upstream](#upstream)|
